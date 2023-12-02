@@ -13,7 +13,7 @@
 ![image](https://github.com/RamonDevTeam/Translations/assets/87502681/310012dd-f7b5-4042-8f89-7a8a042cc6bd)
 
 <hr>
-3. Zresatrtuj grę i ciesz się fajnymi tłumaczeniami!
+3. Zrestartuj grę i ciesz się fajnymi oraz nowymi tłumaczeniami do gry zrobione przez Adasiek i Dominikk!
 <hr>
 
 # 🔍 **Preview**:
