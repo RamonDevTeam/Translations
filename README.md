@@ -2,28 +2,31 @@
 
 <hr>
 
-- English:
+### English:
 
-1. Unzip the folder with the translation to the game files 📁 <code>Steam\steamapps\common\SCP Secret Laboratory\Translations</code>.
+1. Unzip the folder with the translation to the game files: 
+- 📁 **Steam\steamapps\common\SCP Secret Laboratory\Translations.**
 
 <hr>
 
-- Polish:
+### Polish:
 
-1. Rozpakuj folder z tłumaczeniem do plików gry 📁 <code>Steam\steamapps\common\SCP Secret Laboratory\Translations</code>.
+1. Rozpakuj folder z tłumaczeniem do plików gry:
+- 📁 **Steam\steamapps\common\SCP Secret Laboratory\Translations.**
+
 <hr>
 
 ![image](https://github.com/RamonDevTeam/Translations/assets/87502681/0ea4638c-a07b-49b1-8157-c64fc87677de)
 
 <hr>
 
-- English:
+### English:
 
 2. In the game settings you will need to go to <code>Interface</code> and then choose <code>Interface Language</code>.
 
 <hr>
 
-- Polish:
+### Polish:
 
 2. W ustawieniach gry będziesz musiał wejść w zakładkę <code>Interface</code> i potem wybrać <code>Interface Language</code>.
 <hr>
@@ -32,13 +35,13 @@
 
 <hr>
 
-- English:
+### English:
 
 3. Restart the game and enjoy the new game translations!
 
 <hr>
 
-- Polish:
+### Polish:
 
 3. Zrestartuj grę i ciesz się nowymi tłumaczeniami do gry!
 <hr>
@@ -70,4 +73,4 @@
 ![image](https://github.com/RamonDevTeam/Translations/assets/70322874/47074305-2659-4fc1-8add-3ca37453f356)
 
 
-### **Made by: Adasiek, Dominikk**
+## **Made by: Adasiek & Dominikk**
