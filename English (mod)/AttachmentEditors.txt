@@ -1,0 +1,16 @@
+Custom
+Preset <color=#8c9600>#[index]</color>
+<color=#0c7d00>SAVE</color>
+<color=#b50202>CLEAR ATTACHMENTS</color>
+Default
+<color=#0e02b5>PRESETS</color>
+WORKSTATION - <color=#c00>OFFLINE</color>
+<color=#ccc>SITE-02 FIREARM CUSTOMIZATION POINT</color> - STANDBY MODE ACTIVATED\n<size=39>TOUCH THE SCREEN TO ACTIVATE. <color=#7d7300>AUTHORIZED PERSONNEL ONLY.</color></size>
+<size=40>WELCOME TO <color=#ccc>SITE-02 FIREARM CUSTOMIZATION POINT</color></size>
+<size=60>WORKSTATION IS \n<color=#8c9600>BOOTING UP...</color></size>
+WORKSTATION - <color=#0c7d00>READY</color>
+<size=52><color=#ccc>SITE-02 FIREARM CUSTOMIZATION POINT</color> - <color=#0c7d00>READY</color></size>\n<size=42><color=#fc6900>PLEASE EQUIP YOUR FIREARM TO MODIFY ITS ATTACHMENTS.</color></size>
+<color=#c00>POWERING DOWN...</color>
+WORKSTATION IS <color=#fc6900>SHUTTING DOWN</color>
+<color=#0c7d00>SHOW SUMMARY</color>
+<color=#c00>CLOSE SUMMARY</color>

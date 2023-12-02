@@ -1,0 +1,1 @@
+<color=#F00>Laser is visible to others</color>
