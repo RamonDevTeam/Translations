@@ -16,7 +16,7 @@ ETA: [time] seconds
 <color=yellow>⚠</color> DOOR LOCK COOLDOWN <color=yellow>⚠</color>
 <color=#8080FF>⚡ AUXILIARY POWER</color>
 <color=yellow>⚠</color><color=red> ACTIVE GENERATOR </color><color=yellow>⚠</color>
-<color=green>🔓</color> RELEASE ALL DOOR LOCKS ([num] total)
+<color=green>🔓</color> RELEASE ALL DOOR LOCKS
 OPEN FACILITY MAP
 CLOSE 
 <color=#f5eb9c>LIGHT CONTAINMENT ZONE</color>
@@ -87,4 +87,4 @@ NEXT SCAN: <color=yellow>[time]</color> s
 <color=red>SCAN SUSPENDED</color>\n\n\n\n\n\n<size=65%>[<color=yellow>💡</color>] <b>TIP</b>\n\n</size><color=orange><size=55%>[MAKE SURE THAT AT LEAST ONE FILTER IS SELECTED]</size>\n\n<size=55%>[MAKE SURE THAT AT LEAST ONE ZONE IS SELECTED]</color>
 SELECT TEAMS TO DETECT
 Breach Scanner detects remaining targets that stay within the same area for an extended period of time.
-<size=75%><color=orange>[SELECT AT LEAST ONE FILTER TO START SCAN]</color></size>>
+<size=75%><color=orange>[SELECT AT LEAST ONE FILTER TO START SCAN]</color></size>
