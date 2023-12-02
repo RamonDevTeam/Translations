@@ -1,19 +1,46 @@
 # 👀 **How to install**:
 
 <hr>
+
+- English:
+
+1. Unzip the folder with the translation to the game files 📁 <code>Steam\steamapps\common\SCP Secret Laboratory\Translations</code>.
+
+<hr>
+
+- Polish:
+
 1. Rozpakuj folder z tłumaczeniem do plików gry 📁 <code>Steam\steamapps\common\SCP Secret Laboratory\Translations</code>.
 <hr>
 
 ![image](https://github.com/RamonDevTeam/Translations/assets/87502681/0ea4638c-a07b-49b1-8157-c64fc87677de)
 
 <hr>
+
+- English:
+
+2. In the game settings you will need to go to <code>Interface</code> and then choose <code>Interface Language</code>.
+
+<hr>
+
+- Polish:
+
 2. W ustawieniach gry będziesz musiał wejść w zakładkę <code>Interface</code> i potem wybrać <code>Interface Language</code>.
 <hr>
 
 ![image](https://github.com/RamonDevTeam/Translations/assets/87502681/310012dd-f7b5-4042-8f89-7a8a042cc6bd)
 
 <hr>
-3. Zrestartuj grę i ciesz się fajnymi oraz nowymi tłumaczeniami do gry zrobione przez Adasiek i Dominikk!
+
+- English:
+
+3. Restart the game and enjoy the new game translations!
+
+<hr>
+
+- Polish:
+
+3. Zrestartuj grę i ciesz się nowymi tłumaczeniami do gry!
 <hr>
 
 # 🔍 **Preview**:
