@@ -15,3 +15,5 @@ Round time: [summary_round_minutes]:[summary_round_seconds]
 [summary_scp_terminated] terminated <color=red>SCPs</color>
 Next round in [summary_next_round_countdown] seconds.
 The <color=red>SCPs</color> killed [summary_scpfrags] human beings.
+[ FLAMINGOS WIN ]
+All other teams have been exterminated. Total flamingo victory has been achieved.

@@ -1,22 +1,22 @@
 Candies
 <color=#FF0000>🍬 R</color><color=#FF7F00>a</color><color=#FFFF00>i</color><color=#00FF00>n</color><color=#0000FF>b</color><color=#4B0082>o</color><color=#9400D3>w</color> <color=#4B0082>C</color><color=#0000FF>a</color><color=#00FF00>n</color><color=#FFFF00>d</color><color=#FF7F00>y 🍬</color>
 Its a hard piece of rock candy, packed with all sorts of flavours.
-Permanent <color=#00FF00>+5%</color> Resistance \n <color=#00FF00>+15hp</color> and Temporary <color=#00FF00>+20 AHP</color>
+<color=red>Permanent</color> <color=#00FF00>+5%</color><color=white> Resistance</color> \n <color=#00FF00>+15hp</color><color=white> and Temporary</color> <color=#00FF00>+20 AHP</color>
 <color=#FFFF00>🍬 Yellow Candy 🍬</color>
 The overwhelming smell of lemon makes you cringe a little.
-<color=#00FF00>+25</color> Stamina \n <color=#00FF00>+10%</color> Speed and Invigorated for <color=#DC143C>8s</color>
+<color=#00FF00>+25</color><color=white> Stamina </color>\n <color=#00FF00>+10%</color><color=white> Speed and Invigorated for </color><color=#DC143C>8s</color>
 <color=#360082>🍬 Purple Candy 🍬</color>
 It has a juicy grape smell. Your mouth begins to water.
-<color=#00FF00>+20%</color> damage resistance for <color=#DC143C>20s</color> \n <color=#00FF00>+15hp</color> over <color=#DC143C>10s</color>
+<color=#00FF00>+20%</color><color=white> damage resistance for </color><color=#DC143C>20s</color> \n <color=#00FF00>+15hp</color> <color=white>over</color> <color=#DC143C>10s</color>
 <color=#DC143C>🍬 Red Candy 🍬</color>
 A strong scent of cherry fills the room. It’s a bit... <i>too</i> strong.
-<color=#00FF00>+45hp</color> over <color=#DC143C>5s</color>
+<color=#00FF00>+45hp</color><color=white> over </color><color=#DC143C>5s</color>
 <color=#00FF00>🍬 Green Candy 🍬</color>
 A nasty, herbal smell emits from the candy.
-<color=#00FF00>+1.5hp</color> over <color=#DC143C>80s</color> \n Vitality Status for <color=#DC143C>30s</color>
-<color=#0000FF>🍬 Blue Candy 🍬</color>
+<color=#00FF00>+1.5hp</color> <color=white>over</color> <color=#DC143C>80s</color> & <color=white>Vitality Status for</color> <color=#DC143C>30s</color>
+<color=#0047AB>🍬 Blue Candy 🍬</color>
 It smells soft and sweet, something akin to a marshmallow.
-<color=#00FF00>+30AHP</color>, Does not decay.
+<color=#00FF00>+30AHP</color><color=white>, does not decay.</color>
 <color=#FFC0CB>🍬 Pink Candy 🍬</color>
 The strawberry scent is as gentle as it looks.
 - R E D A C T E D -

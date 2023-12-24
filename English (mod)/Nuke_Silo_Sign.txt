@@ -3,9 +3,9 @@
 <color=#ff6500>AL</color>
 <color=#ff6500>ALP</color>
 <color=#ff6500>ALPH</color>
-<color=#ff6500>ALPHA</color>
+<color=#ff6500>ALPHA</color><color=white> ❄</color>
 
-<color=#ff6500>ALPHA</color>
+<color=#ff6500>ALPHA</color><color=white> ❄</color>
 
 <color=#ff6500>W</color>
 <color=#ff6500>WA</color>
@@ -13,13 +13,13 @@
 <color=#ff6500>WARH</color>
 <color=#ff6500>WARHE</color>
 <color=#ff6500>WARHEA</color>
-<color=#ff6500>WARHEAD</color>
+<color=#ff6500>WARHEAD</color><color=white> 🎅</color>
 
-<color=#ff6500>WARHEAD</color>
+<color=#ff6500>WARHEAD</color><color=white> 🎅</color>
 
 <color=#ff6500>S</color>
 <color=#ff6500>SI</color>
 <color=#ff6500>SIL</color>
-<color=#ff6500>SILO</color>
+<color=#ff6500>SILO</color><color=white> ⛄</color>
 
-<color=#ff6500>SILO</color>
+<color=#ff6500>SILO</color><color=white> ⛄</color>
