@@ -22,3 +22,6 @@
 Overwatch
 Filmmaker
 <color=#560707>S</color><color=#680909>C</color><color=#7a0b0b>P</color><color=#8c0c0c>-</color><color=#9e0e0e>3</color><color=#b00f0f>1</color><color=#c21111>1</color><color=#c21111>4</color>
+<color=#AE0479>S</color><color=#B91084>C</color><color=#C41C8F>P-</color><color=#DA34A5>1</color><color=#E540B0>5</color><color=#F04CBB>0</color><color=#FB58C6>7</color>
+<color=#AE0479>S</color><color=#B91084>C</color><color=#C41C8F>P-</color><color=#DA34A5>1</color><color=#E540B0>5</color><color=#F04CBB>0</color><color=#FB58C6>7</color> Alpha
+<color=#560707>S</color><color=#680909>C</color><color=#7a0b0b>P</color><color=#8c0c0c>-</color><color=#9e0e0e>1</color><color=#b00f0f>5</color><color=#c21111>0</color><color=#c21111>7 Zombie</color>
