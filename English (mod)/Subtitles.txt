@@ -1,4 +1,4 @@
-[<color=green><b>🎄</b></color>] <color=#70C3FF> Tactical Holiday Unit Epsilon-11</color> <b>|</b> <color=#0049F1>[designation]</color> <b>|</b> All remaining elves are advised to seek shelter in the nearest gingerbread house until the unit has festivized the facility.<split>
+[<color=#0096FF><b>⚚</b></color>] <color=#70C3FF> MTF Unit Epsilon-11</color> <b>|</b> <color=#0049F1>[designation]</color> <b>|</b> 
 Awaiting re-containment of: <color=#DC143C><b>[count] SCP subjects</b></color>.
 [<color=orange><b>⚠</b></color>] Awaiting re-containment of: <color=#DC143C><b>1 SCP subject</b></color>.
 <color=#FFFF00>Substantial threat to safety remains</color> -- <color=#F00><b>exercise caution</b></color>.
@@ -17,12 +17,11 @@ contained <b>|</b> <color=#0049F1>Containment Unit [designation]</color>.
 <split>[<color=yellow>⚠</color>] All generators have been successfully engaged.
 [<b><color=yellow>⚡</color></b>] Overcharge in <color=#2EFF00>3...</color> <color=#FFF821>2...</color> <color=#F00>1...</color>
 [<b><color=yellow>⚡</color></b>] Facility is back in operational mode.
-[<color=green><b>ⅰ</b></color>] <color=#FFFF00>Attention</color> - <color=#E9D3FF>Light Containment Zone</color> <color=#7cf58d>decontamination</color> in <color=green><b>T-15</b> minutes</color>.
-[<color=orange><b>⚠</b></color>] <color=#DC143C>Danger</color> - <color=#E9D3FF>Light Containment Zone</color> <color=#7cf58d>decontamination</color> in <color=yellow><b>T-[time]</b> minutes</color>.
-[<color=#ff4400><b>⚠</b></color>] <color=#DC143C>Danger</color> - <color=#E9D3FF>Light Containment Zone</color> <color=#7cf58d>decontamination</color> in <color=#DC143C><b>T-1</b> minute</color>.
-[<color=red><b>⚠</b></color>] <color=#DC143C>Danger</color> - <color=#E9D3FF>Light Containment Zone</color> <color=#7cf58d>decontamination</color> in <color=#DC143C><b>T-30</b> seconds</color>.<split>All checkpoint doors have been permanently opened.<split><color=red>Please evacuate immediately.</color>
-[<color=green><b>ⅰ</b></color>] <color=#E9D3FF>Light Containment Zone</color> is <color=#F00><b>Locked Down</b></color> and ready for decontamination.<split>The removal of organic substances has now begun.
-[<color=red><b>⚠</b></color>] ALPHA WARHEAD SEQUENCE ENGAGED</color> <b>|</b> <color=#F5650A>DETONATION IN <color=red><b>[time]</b></color> SECONDS.
+[<color=yellow><b>⚠</b></color>] <color=#8F065F>LCZ-ODP</color> will occur in <color=yellow><b>T-15</b></color> minutes.<split>All biological substances must be removed in order to avoid destruction.
+[<color=orange><b>⚠</b></color>] <color=orange>LCZ-ODP</color> in <color=#DC143C><b>T-[time] minutes</b></color>.
+[<color=#ff4400><b>⚠</b></color>] <color=#ff4400>LCZ-ODP</color> in <color=#FFFF00><b>T-1 minute</b></color>.
+[<color=red><b>⚠</b></color>] <color=red>LCZ-ODP</color> in <color=#F00><b>T-30</b></color> seconds.<split>All checkpoint doors have been permanently opened.<split><color=#E34234>Please evacuate immediately.</color>
+[<color=red><b>⚠</b></color>] <color=#E9D3FF>Light Containment Zone</color> is <color=#F00><b>Locked Down</b></color> and ready for decontamination.<split>The removal of organic substances has now begun.
+[<color=red><b>⚠</b></color>] ALPHA WARHEAD SEQUENCE ENGAGED</color> <b>|</b> <color=#F5650A>DETONATION IN <color=#DC143C><b>[time] SECONDS</b></color>.
 [<color=green><b>ⅰ</b></color>] DETONATION CANCELLED.<split>RESTARTING SYSTEMS...
-[<color=orange><b>⚠</b></color>] DETONATION RESUMED <b>|</b> ETA:<color=#DC143C><b> T-[time]</b></color> SECONDS.
-terminated by: <color=blue>Marshmallow Man</color>.
+[<color=orange><b>ⅰ</b></color>] DETONATION RESUMED <b>|</b> ETA:<color=#DC143C><b> T-[time]</b></color> SECONDS.

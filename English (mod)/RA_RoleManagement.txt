@@ -1,28 +1,25 @@
 None
-<color=red>「SCP-173」</color>
+<color=#DC143C>「SCP-173」</color>
 <color=#FF8E00>「Class-D」</color>
 「Spectator」
-<color=red>「SCP-106」</color>
+<color=#DC143C>「SCP-106」</color>
 <color=#70C3FF>「MTF Specialist」</color>
-<color=red>「SCP-049」</color> 
+<color=#DC143C>「SCP-049」</color> 
 <color=#FFFF7C>「Scientist」</color>
-<color=#0a0aff>「S</color><color=#1e1eff>C</color><color=#3232ff>P</color><color=#4545ff>-</color><color=#5959ff>0</color><color=#6c6cff>7</color><color=#8080ff>9」</color>
+<color=#DC143C>「SCP-079」</color>
 <color=#007519>「CI Conscript」</color>
-<color=red>「SCP-096」</color>
-<color=red>「SCP-049-2」</color>
+<color=#DC143C>「SCP-096」</color>
+<color=#DC143C>「SCP-049-2」</color>
 <color=#0096FF>「MTF Sergeant」</color>
 <color=#003DCA>「MTF Captain」</color>
 <color=#70C3FF>「MTF Private」</color>
 <color=#ff00b0>「Tutorial」</color>
 <color=#5B6370>「Facility Guard」</color>
-<color=red>「SCP-939」</color>
+<color=#DC143C>「SCP-939」</color>
 Custom Role
 <color=#008F1C>「CI Rifleman」</color>
 <color=#0D7D35>「CI Marauder」</color>
 <color=#006826>「CI Repressor」</color>
 「Overwatch」
-<color=#524d4d>「Filmmaker」</color>
-<color=red>「SCP-3114」</color>
-<color=#FF59CA>「SCP-1507」</color>
-<color=#FF59CA>「1507-Alpha」</color>
-<color=red>「1507-Zombie」</color>
+<color=#363636>「Filmmaker」</color>
+<color=#DC143C>「SCP-3114」</color>

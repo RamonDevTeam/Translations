@@ -1,6 +1,6 @@
 You are now disguised as a [role_name].
 Unable to attack while disguised. Hold [key] to remove your current disguise.
-Items held as <color=red>SCP-3114</color> cannot be used.
+Items held as SCP-3114 cannot be used.
 Press [key] to communicate with humans while disguised.
 This corpse has already been used for a disguise.
 You are already disguised. Hold [key] to remove your current disguise.

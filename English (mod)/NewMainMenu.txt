@@ -1,13 +1,13 @@
-<color=#f2ff61> ★ | </color> News
-<color=#53f502> ▶️ | </color> Play
-<color=#969595> ☀️ | </color> Settings
-<color=red> ✖️ | </color> Quit
+<color=#f2ff61>[★]</color> News
+<color=#53f502>[▶️]</color> Play
+<color=#969595>[☀️]</color> Settings
+<color=red>[✖️]</color> Quit
 Social Media
-<color=#005485> ✳️ | </color> Internet
-<color=#f2ff61> ★ | </color> Favourites
-<color=red> ✔️ | </color> Official
-<color=orange> ➡️ | </color> History
-<color=#4d02b0> ❤️ | </color> Friends
+<color=#005485>[✳️]</color> Internet
+<color=#f2ff61>[★]</color> Favourites
+<color=red>[✔️]</color> Official
+<color=orange>[➡️]</color> History
+<color=#4d02b0>[❤️]</color> Friends
 Search Servers
 Create Server
 Re-Join
@@ -63,8 +63,8 @@ This change will require a reload.\nReload the menu now?
 Are you sure you want to quit?
 Screen Resolution
 Hide IP
-Hi {username}! 🎄
- ©️ |  Credits
+Hi {username}!
+[©️] Credits
 <b>Connection status: <color=yellow>Connecting...</color></b>
 <b>Connection status: <color=yellow>Connecting...</color></b>
 <b>Connection status: <color=green>OK!</color></b>
@@ -91,4 +91,4 @@ For playing our game!
 <color=#ffffff>V</color><color=#f0f1fa>o</color><color=#e1e2f4>l</color><color=#d3d4ef>u</color><color=#c4c6ea>m</color><color=#b5b7e4>e</color><color=#a6a9df>t</color><color=#979bda>r</color><color=#898dd5>i</color><color=#7a7ecf>c</color> <color=#5c62c5>L</color><color=#4d53bf>i</color><color=#3e45ba>g</color><color=#3037b5>h</color><color=#2128af>t</color><color=#121aaa>s</color>
 <color=#ffaf75>Bloom</color>
 <color=yellow>Toggle</color> Subtitles
-<color=blue> ✪ | </color> Guides
+<color=blue>[✪]</color> Guides
