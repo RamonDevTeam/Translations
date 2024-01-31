@@ -16,8 +16,8 @@
 [<color=yellow>💡</color>] The more attachments a weapon has on it, the heavier it gets. This affects stamina usage and movement speed.
 [<color=yellow>💡</color>] Not only do suppressors muffle gunshots, they also hide muzzle flashes.
 [<color=yellow>💡</color>] Longer and heavier weapons are less accurate if fired while running.
-[<color=red>💡</color>] Translations made by: Dominikk and Adasiek. HF playing with them!
-[<color=red>💡</color>] Current version of translations: <b>4.0.2</b>.
+[<color=red>💡</color>] Translations made by: Adasiek and Dominikk. HF playing with them!
+[<color=red>💡</color>] Current version of translations: <b>4.0.3</b>.
 [<color=yellow>💡</color>] Wearing body armor increases the number of items and ammo you can carry.
 [<color=yellow>💡</color>] Armor-piercing rounds (AP) perform best against armored targets.
 [<color=yellow>💡</color>] Hollow-point rounds (JHP) do higher damage to unarmored targets but are weaker against armor.
