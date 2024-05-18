@@ -44,3 +44,4 @@ Stop the playback
 Drag to trim the recording
 Toggle favorite. Recordings marked as favorite are bound to a hotkey.
 Drag to reorganize recordings
+You've stolen your target's voice!

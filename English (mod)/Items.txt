@@ -12,17 +12,17 @@
 11~<color=#000000>💳 O5-level Keycard 💳</color>
 12~<color=#606770>📻 Radio 📻</color>~Used to communicate with your allies \n Longer ranges can be heard further, but drains faster.</color>
 13~<color=#e7d678>🔫 COM-15 🔫</color>
-14~<color=#04b018>First Aid Kit</color>~[<color=#00FF00>✚</color>] <color=#057a01>Healing Item</color> [<color=#00FF00>✚</color>]\n\nHeals your injuries.\n <color=#00FF00>+65hp</color> after <color=#DC143C>5s</color>
+14~<color=#04b018>First Aid Kit</color>~[<color=#00FF00>✚</color>] <color=#057a01>Healing Item</color> [<color=#00FF00>✚</color>]\n\n<size=20>Heals you <color=#00FF00>+65 HP</color></size>
 15~<color=#606770>🔦 Flashlight 🔦</color>~Let there be light!
 16~<color=#5EE9FF>⚡</color><color=#1841c8> Micro H.I.D.</color><color=#5EE9FF> ⚡</color>~<color=#00FF00>5s</color> \n Firing Delay: <color=#00FF00>2s</color> \n Maximum Firing: <color=#00FF00>10s \n <color=#F5650A>Deals 1150 DPS. \n <color=#FFFF00>+50% Stamina Consumption</color>
 17~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#04b018>500</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>SCP Item</color> [<color=#FFA500>⚠</color>]\n \n<color=#00FF00>+200hp</color> over <color=#DC143C>10s</color> \n Reverses all negative status effects
-18~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#FFFF7C>207</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>SCP Item</color> [<color=#FFA500>⚠</color>]\n\n<color=#00FF00>+30HP</color> after <color=#DC143C>5s</color> \n Faster Movement Speeds \n <color=#F5650A>Drains HP over Time</color> \n <color=#EC2222>Doesn't Mix well with other liquids like SCP-1853</color>
+18~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#FFFF7C>207</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>SCP Item</color> [<color=#FFA500>⚠</color>]\n\n<color=#00FF00>+30HP</color> after <color=#DC143C>5s</color> \n Faster Movement Speeds \n <color=red>Drains HP over Time</color> \nDoesn't Mix well with other liquids like</color> <color=#ff0000>SCP</color><color=#1f211f>-</color><color=#FFFF7C>1853</color>
 20~<color=#5180f7>🔫 MTF-E11-SR 🔫</color>
 21~<color=#a2cade>🔫 Crossvec 🔫</color>
 23~<color=#606770>🔫 FSP-9 🔫</color>
 24~<color=#35493e>🔫 Logicer 🔫</color>
 25~<color=#8f3c3c>💣 Grenade 💣</color>~[<color=#FFA500>💥</color>] <color=#ff4f4d>Grenade</color> [<color=#FFA500>💥</color>]\n\n Arm Time <color=#DC143C>5s</color>\n <color=#FFFF00> Applies Burned and Concussed \n <color=#FF0000>Weaker against Humans</color>
-26~<color=#606770>💣 Flashbang 💣</color>~[<color=#FFA500>💥</color>] <color=#ff4f4d>Grenade</color> [<color=#FFA500>💥</color>]\n\nAllows you to blind enemies\nArm Time <color=#DC143C>3s</color> \n Max Blind Time <color=#DC143C>5s</color>
+26~<color=#606770>💣 Flashbang 💣</color>~[<color=#FFA500>💥</color>] <color=#ff4f4d>Grenade</color> [<color=#FFA500>💥</color>]\n\n<size=18>Arm Time <color=#DC143C>3s</color>\n Max Blind Time <color=#DC143C>5s</color>\n Allows you to blind enemies</size>
 30~<color=#606770>🔫 COM-18 🔫</color>
 31~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#ff0000>018</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>SCP Item</color> [<color=#FFA500>⚠</color>]\n\n Lasts <color=#DC143C>80s</color> \n <color=#FF0000>Deals More Damage the Faster it Goes</color>!
 32~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#6e04b0>268</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>SCP Item</color> [<color=#FFA500>⚠</color>]\n\nInvisibility against normal targets for <color=#DC143C>15s</color> \n\n <color=#FFFF00>Cancelled upon user interaction!</color>
@@ -39,7 +39,7 @@
 43~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#FFFF7C>2176</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>SCP Item</color> [<color=#FFA500>⚠</color>]\n\nYour very own Ghostlight! Caution, very fragile...
 44~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#04bade>244-A</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>SCP Item</color> [<color=#FFA500>⚠</color>]\n\nAn ancient vase, freezing to the touch. Creates a large cloud of icy fog when placed.
 45~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#04bade>244-B</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>SCP Item</color> [<color=#FFA500>⚠</color>]\n\nAn ancient vase, freezing to the touch. Creates a large cloud of icy fog when placed.
-46~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#FFFF7C>1853</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>SCP Item</color> [<color=#FFA500>⚠</color>]\n\nImproves weapon manipulation skills at the cost of higher stamina usage.
+46~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#FFFF7C>1853</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>SCP Item</color> [<color=#FFA500>⚠</color>]\n<size=13>\n<color=#00FF00>50</color>% increase in item pickup speed.\n<color=#00FF00>20</color>% decrease in weapon inaccuracy.\n<color=#00FF00>20</color>% decrease in weapon recoil.\n<color=#00FF00>20</color>% reduction in reload/unload time.\n<color=#00FF00>20</color>% reduction in ADS enter/exit time.\n<color=#00FF00>20</color>% reduction in use times of medical items, grenades, SCP items, and candy.</size>
 47~<color=#1841c8>🔫 3-X Particle Disruptor 🔫</color>
 48~<color=#ff0000>🔫 COM-45 🔫</color>
 49~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#6e04b0>1576</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>SCP Item</color> [<color=#FFA500>⚠</color>]\n\nTalk with those that are no longer with us.

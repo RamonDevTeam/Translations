@@ -10,3 +10,5 @@ Main Menu
 Music
 Interface
 Theme
+Noise Suppression
+Reduces unwanted background noise picked up by your microphone. Keeping this option enabled is highly recommended and should have no impact on the quality of your voice.

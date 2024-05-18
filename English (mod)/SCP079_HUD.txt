@@ -82,9 +82,10 @@ SELECTED ZONES: <color=yellow>0</color>\n <size=75%><color=orange>[SELECT AT LEA
 Scan result: $No stationary targets detected$.
 Retrying in <color=yellow>[time]</color> seconds...
 Scan result: $[role]$ detected at <color=yellow>‘$[camera_name]$’</color> <color=#823a35>([zone])</color>.
-NEXT SCAN: <color=yellow>[time]</color> s
+NEXT SCAN: <color=yellow>[time]</color>
 <color=#0ba11f>Scanning...</color>
 <color=red>SCAN SUSPENDED</color>\n\n\n\n\n\n<size=65%>[<color=yellow>💡</color>] <b>TIP</b>\n\n</size><color=orange><size=55%>[MAKE SURE THAT AT LEAST ONE FILTER IS SELECTED]</size>\n\n<size=55%>[MAKE SURE THAT AT LEAST ONE ZONE IS SELECTED]</color>
 SELECT TEAMS TO DETECT
 Breach Scanner detects remaining targets that stay within the same area for an extended period of time.
 <size=75%><color=orange>[SELECT AT LEAST ONE FILTER TO START SCAN]</color></size>
+<color=red>🔒</color> $DOOR LOCK$ now available - press <color=#26e6fe> RMB </color> on a specific door to temporarily lock it.

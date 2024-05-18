@@ -1,5 +1,5 @@
-<color=blue>[🎬]</color> Video
-<color=purple>[♫]</color> Audio
-<color=#53f502>[ⓌⓈⒶⒹ]</color> Controls
-<color=orange>[🔍]</color> Interface
-<color=#616161>[<size=120%>🔒</size>]</color> Privacy
+<color=blue>🎬 <b>|</b></color> Video
+<color=purple>♫ <b>|</b></color> Audio
+<color=#53f502>ⓌⓈⒶⒹ <b>|</b></color> Controls
+<color=orange>🔍 <b>|</b></color> Interface
+<color=#616161><size=120%>🔒</size><b>|</b></color> Other
