@@ -1,0 +1,25 @@
+#INFO FOR TRANSLATORS: In this file you can use as many lines as you want, all of them will be displayed on the display above the door.
+<color=#ff6500>A</color>
+<color=#ff6500>AL</color>
+<color=#ff6500>ALP</color>
+<color=#ff6500>ALPH</color>
+<color=#ff6500>ALPHA</color>
+
+<color=#ff6500>ALPHA</color>
+
+<color=#ff6500>W</color>
+<color=#ff6500>WA</color>
+<color=#ff6500>WAR</color>
+<color=#ff6500>WARH</color>
+<color=#ff6500>WARHE</color>
+<color=#ff6500>WARHEA</color>
+<color=#ff6500>WARHEAD</color>
+
+<color=#ff6500>WARHEAD</color>
+
+<color=#ff6500>S</color>
+<color=#ff6500>SI</color>
+<color=#ff6500>SIL</color>
+<color=#ff6500>SILO</color>
+
+<color=#ff6500>SILO</color>

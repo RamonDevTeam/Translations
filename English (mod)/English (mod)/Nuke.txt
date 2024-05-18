@@ -1,0 +1,4 @@
+<size=350><color=#FF0000>☢️</color></size>\n<size=70>   STATUS: <color=#FF0000>DISABLED</color></size>
+<size=350><color=#FFFF00>☢️</color></size>\n<size=70>   STATUS: <color=#FFFF00>RESTARTING</color></size>
+<size=350><color=#00FF00>☢️</color></size>\n<size=70>   STATUS: <color=#00FF00>ENABLED</color></size>
+DETONATION INEVITABLE

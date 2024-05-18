@@ -1,0 +1,16 @@
+You are now disguised as a [role_name].
+Unable to attack while disguised. Hold [key] to remove your current disguise.
+Items held as SCP-3114 cannot be used.
+Press [key] to communicate with humans while disguised.
+This corpse has already been used for a disguise.
+You are already disguised. Hold [key] to remove your current disguise.
+Only human corpses can be used as a disguise.
+This unrecognisable pile of bones are likely the remains of <b>[player_name]</b>.
+You can use this corpse to disguise as a [role].
+Disguise
+Strangulation Cooldown
+Skeletons In Your Closet:Your name and identity are hidden. You are but a blank canvas and the world is your muse. While disguised as a human, your basic strength allows for you to hold onto certain objects — but your lack of noticeable muscle prevents you from effectively using items.
+Catch These Hands:Unleash a flurry of light attacks that slowly scrape health from whomever you hit. These microscopic layers of allegedly calcium-rich skin somehow give you dexterity and strengthen your resolve, restoring a small amount of Hume Shield on each hit.
+Strangulation:Grab them by the neck and choke the life out of them. Look them in the eyes as they draw their last breaths. Their lives are but candles to be blown out, taking all but a mere few seconds. This attack can be interrupted.
+Under Their Skin:Steal yourself a nice, warm jacket (their skin) by interacting with their corpse. Temporarily embrace the warmth and wear their fleshy ‘meat suit’, mimicking the ability to hold certain items. Hold [key] to remove it abruptly!
+Press and hold [key] for longer to remove your current disguise.
