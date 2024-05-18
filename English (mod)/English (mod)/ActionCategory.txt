@@ -1,8 +1,0 @@
-Gameplay
-Weapons
-Movement
-Hotkeys
-Comms
-System
-Unbindable
-SCP-079

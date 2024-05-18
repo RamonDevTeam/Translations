@@ -1,7 +1,0 @@
-<color=#EC2222>☣️ <b>SCP SUBJECTS</b></color>
-<color=#5B6370>🚓 <b>Security Guards</b></color> & <color=#0096FF>🚁 <b>MTF</b></color>
-<color=#008F1C>🚙 <b>Chaos Insurgency Agents</b></color>
-<color=#FFFF7C>🔬 <b>Scientists</b></color>
-<color=#FF8E00>📋 <b>Class-D Personnel</b></color>
-💀 Dead
-<color=#ff00b0>❓</color
