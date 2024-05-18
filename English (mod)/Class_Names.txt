@@ -1,0 +1,24 @@
+<color=#8c0c0c>「S</color><color=#9e0e0e>C</color><color=#b00f0f>P</color><color=#c21111>-</color><color=#d51212>1</color><color=#e71414>7</color><color=#ec2222>3」</color>
+<color=#894c00>「C</color><color=#9d5700>l</color><color=#b16200>a</color><color=#c46e00>s</color><color=#d87800>s</color><color=#eb8300>-</color><color=#ff8e00>D」</color>
+<color=#8e9266>「S</color><color=#979c70>p</color><color=#a0a47c>e</color><color=#a8ac87>c</color><color=#b0b493>t</color><color=#b9bc9e>a</color><color=#c1c4aa>t</color><color=#caccb5>o</color><color=#d2d4c1>r」</color>
+<color=#8c0c0c>「S</color><color=#9e0e0e>C</color><color=#b00f0f>P</color><color=#c21111>-</color><color=#d51212>1</color><color=#e71414>0</color><color=#ec2222>6」</color>
+<color=#00233b>「MTF</color> <color=#002e4e>S</color><color=#003a62>p</color><color=#004576>e</color><color=#005189>c</color><color=#005c9d>i</color><color=#0068b1>a</color><color=#0073c4>l</color><color=#007fd8>i</color><color=#008aeb>s</color><color=#0096ff>t」</color>
+<color=#8c0c0c>「S</color><color=#9e0e0e>C</color><color=#b00f0f>P</color><color=#c21111>-</color><color=#d51212>0</color><color=#e71414>4</color><color=#ec2222>9」</color>
+<color=#696900>「S</color><color=#7d7d00>c</color><color=#909000>i</color><color=#a4a400>e</color><color=#b8b800>n</color><color=#cbcb00>t</color><color=#dfdf00>i</color><color=#f2f200>s</color><color=#ffff07>t」</color>
+<color=#0a0aff>「S</color><color=#1e1eff>C</color><color=#3232ff>P</color><color=#4545ff>-</color><color=#5959ff>0</color><color=#6c6cff>7</color><color=#8080ff>9」</color>
+<color=#002d09>「C.I.</color> <color=#00410d>C</color><color=#005411>o</color><color=#006815>n</color><color=#007b19>s</color><color=#008f1d>c</color><color=#00a321>r</color><color=#00b624>i</color><color=#00ca28>p</color><color=#00de2c>t」</color>
+<color=#8c0c0c>「S</color><color=#9e0e0e>C</color><color=#b00f0f>P</color><color=#c21111>-</color><color=#d51212>0</color><color=#e71414>9</color><color=#ec2222>6」</color>
+<color=#680909>「S</color><color=#7a0b0b>C</color><color=#8c0c0c>P</color><color=#9e0e0e>-</color><color=#b00f0f>0</color><color=#c21111>4</color><color=#d51212>9</color><color=#e71414>-</color><color=#ec2222>2」</color>
+<color=#003a62>「MTF</color> <color=#004576>S</color><color=#005189>e</color><color=#005c9d>r</color><color=#0068b1>g</color><color=#0073c4>e</color><color=#007fd8>a</color><color=#008aeb>n</color><color=#0096ff>t」</color>
+<color=#001f68>「MTF</color> <color=#00257c>C</color><color=#002b8f>a</color><color=#0031a3>p</color><color=#0037b6>t</color><color=#003dca>a</color><color=#0043de>i</color><color=#0049f1>n」</color>
+<color=#0085e6>「MTF</color> <color=#0091f9>P</color><color=#0e9aff>r</color><color=#22a2ff>i</color><color=#49b3ff>v</color><color=#49b3ff>a</color><color=#5cbbff>t</color><color=#70C3FF>e」</color>
+<color=#970364>「T</color><color=#b00a77>u</color><color=#ca138b>t</color><color=#e41b9f>o</color><color=#e81ca2>r</color><color=#ec1da5>i</color><color=#f01ea8>a</color><color=#ff23b4>l」</color>
+<color=#414650>「G</color><color=#49505a>u</color><color=#525965>a</color><color=#5b6370>r</color><color=#5b6370>d」</color>
+<color=#560707>「S</color><color=#680909>C</color><color=#7a0b0b>P</color><color=#8c0c0c>-</color><color=#9e0e0e>9</color><color=#b00f0f>3</color><color=#c21111>9」</color>
+-
+<color=#002d09>「C.I.</color> <color=#00410d>R</color><color=#005410>i</color><color=#006814>f</color><color=#007b18>l</color><color=#008f1c>e</color><color=#00a320>m</color><color=#00b624>a</color><color=#00ca28>n」</color>
+<color=#002d10>「C.I.</color> <color=#004118>M</color><color=#00541f>a</color><color=#006826>r</color><color=#007c2d>a</color><color=#008f34>u</color><color=#00a33c>d</color><color=#00b643>e</color><color=#00ca4a>r」</color>
+<color=#04240f>「C.I.</color> <color=#063617>R</color><color=#07481e>e</color><color=#095926>p</color><color=#0b6b2d>r</color><color=#0d7d35>e</color><color=#0f8f3d>s</color><color=#11a144>s</color><color=#13b24c>o</color><color=#14c453>r」</color>
+「Overwatch」
+「Filmmaker」
+<color=#8c0c0c>「S</color><color=#9e0e0e>C</color><color=#b00f0f>P</color><color=#c21111>-</color><color=#d51212>3</color><color=#e71414>1</color><color=#ec2222>1</color><color=#ec2222>4」</color>
