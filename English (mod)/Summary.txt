@@ -1,0 +1,17 @@
+<b>The round has finished!</b>
+[ SCPS WIN ]
+[ FOUNDATION WINS ]
+[ INSURGENCY WINS ]
+[ STALEMATE ]
+The escaped subjects have overrun the facility. Emergency response has been scrambled.
+All threats to safety have been neutralized. Site-02 is secure once again.
+Foundation presence has been exterminated. Operatives standing by for further orders.
+Site-02 is under certain control, but not without cost. The victor is undetermined.
+[<color=#FF8E00>🏃</color>] [summary_d_escaped] <color=#FF8E00>class-d</color> escaped [<color=#FF8E00>🏃</color>]
+[<color=#FFFF7C>🏃</color>] [summary_s_escaped] <color=#FFFF7C>scientist(s)</color> escaped [<color=#FFFF7C>🏃</color>]
+Alpha Warhead status: [<color=red>💥</color>] <color=orange>DETONATED</color> [<color=red>💥</color>] | detonation terminated [summary_warhead_kills] beings.
+Alpha Warhead status: <color=#228B22>NOT DETONATED</color>
+Round time: [summary_round_minutes]:[summary_round_seconds]
+[summary_scp_terminated] terminated <color=red>SCPs</color>
+Next round in [summary_next_round_countdown] seconds.
+The <color=red>SCPs</color> killed [summary_scpfrags] human beings.
