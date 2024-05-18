@@ -1,0 +1,8 @@
+<color=#00FF00>READY\nTO TRANSMIT</color>
+<color=#00FF00>TRANSMITTING...</color>\nTIME LEFT:<color=#FFFF00> {0}</color>
+<color=#00FF00>TRANSMITTING...</color>\n<color=#00FFFF>BYPASS MODE</color>
+<color=#FF0000>RESTARTING...</color>\n<color=#FFFF00>{0}</color>
+<color=#FF0000>ADMIN</color> IS USING\nTHE INTERCOM NOW
+YOU ARE <color=#808080>MUTED</color> BY <color=#FF0000>ADMIN</color>
+UNKNOWN
+<color=yellow>STARTING TRANSMISSION...</color>
